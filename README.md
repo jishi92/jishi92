@@ -1,4 +1,4 @@
-### Hi there，I'm QIsen 👋
+### Hi there，I'm Qisen 👋
 
 后端开发工程师，公众号:「程序员面试精选」
 
@@ -10,4 +10,4 @@
 
 ### Github State
 
-[![Qisen's github stats](https://github-readme-stats.vercel.app/api?username=qisenshi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Qisen's github stats](https://github-readme-stats.vercel.app/api?username=jishi92&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
